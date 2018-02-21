@@ -119,7 +119,7 @@ After finish this exercise, please commit all your files.
 
 ### Exercise 5
 
-A function `calculateBasket` that take two parameters (two array) should calculate the price of the basket.
+A function `calculateBasket` that take two parameters (an object and an array) should calculate the price of the basket.
 
 ```javascript
 // For example
@@ -140,7 +140,7 @@ After finish this exercise, please commit all your files.
 
 ### Exercise 6
 
-A function `summarizeBasket` that take two parameters (two array) should build our expected result.
+A function `summarizeBasket` that take two parameters (an object and an array) should build our expected result.
 
 ```javascript
 // For example
